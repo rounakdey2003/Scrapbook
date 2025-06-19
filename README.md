@@ -1,4 +1,4 @@
-# SIH - Next.js Project with Aceternity UI
+# Scrapbook - Next.js Project with Aceternity UI
 
 A modern, interactive web application built with Next.js 14, TypeScript, Tailwind CSS, and stunning Aceternity UI components featuring 3D animations, particle effects, and smooth transitions.
 
