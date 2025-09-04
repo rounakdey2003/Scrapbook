@@ -2,7 +2,7 @@
 
 A modern, interactive web application built with Next.js 14, TypeScript, Tailwind CSS, and stunning Aceternity UI components featuring 3D animations, particle effects, and smooth transitions.
 
-## ✨ Features
+## Features
 
 - **Modern UI Components**: Beautiful Aceternity UI components with stunning animations
 - **3D Interactions**: Three.js integration for immersive 3D experiences
@@ -12,7 +12,7 @@ A modern, interactive web application built with Next.js 14, TypeScript, Tailwin
 - **TypeScript**: Full type safety throughout the application
 - **Performance Optimized**: Next.js 14 with latest optimizations
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Framework**: [Next.js 14](https://nextjs.org/)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
@@ -23,7 +23,7 @@ A modern, interactive web application built with Next.js 14, TypeScript, Tailwin
 - **Icons**: [Tabler Icons](https://tabler-icons.io/), [React Icons](https://react-icons.github.io/react-icons/)
 - **Particles**: [TSParticles](https://particles.js.org/)
 
-## 🎨 UI Components Included
+## UI Components Included
 
 ### Interactive Components
 - **3D Card**: Interactive 3D transformations
@@ -51,7 +51,7 @@ A modern, interactive web application built with Next.js 14, TypeScript, Tailwin
 - **Infinite Moving Cards**: Continuous card carousel
 - **Card Hover Effect**: Interactive card behaviors
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -80,14 +80,14 @@ A modern, interactive web application built with Next.js 14, TypeScript, Tailwin
 4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000) to see the application.
 
-## 🛠️ Available Scripts
+## Available Scripts
 
 - `npm run dev` - Start development server with host binding
 - `npm run build` - Build the application for production
 - `npm run start` - Start the production server
 - `npm run lint` - Run ESLint for code quality
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 src/
@@ -114,7 +114,7 @@ src/
     └── utils.ts           # Utility functions
 ```
 
-## 🎯 Key Dependencies
+## Key Dependencies
 
 ### Core Framework
 - **next**: ^14.2.12 - React framework for production
@@ -146,7 +146,7 @@ src/
 - **@tsparticles/slim**: ^3.5.0 - Lightweight particles
 - **simplex-noise**: ^4.0.3 - Noise generation
 
-## 🎨 Customization
+## Customization
 
 ### Tailwind Configuration
 The project uses a custom Tailwind configuration with:
@@ -160,7 +160,7 @@ All Aceternity UI components are fully customizable through:
 - Tailwind classes
 - Component props
 
-## 🚀 Deployment
+## Deployment
 
 ### Vercel (Recommended)
 1. Push your code to GitHub
@@ -174,14 +174,14 @@ The application can be deployed to any platform that supports Node.js:
 - Railway
 - Heroku
 
-## 📱 Browser Support
+## Browser Support
 
 - Chrome (latest)
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -189,11 +189,11 @@ The application can be deployed to any platform that supports Node.js:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Aceternity UI](https://ui.aceternity.com/) for the beautiful component library
 - [Next.js](https://nextjs.org/) team for the amazing framework
